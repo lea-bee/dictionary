@@ -6,7 +6,7 @@ function App() {
     <div className="App">
       <header className="App-header"></header>
       <main>
-        <Dictionary />
+        <Dictionary defaultKeyword="sunset" />
       </main>
       <footer className="App-footer">
         <small>Coded by Leah Twigg</small>
