@@ -3,8 +3,18 @@
   padding: 0;
 }
 
+.Synonyms strong {
+  color: #9482fa;
+  font-size: 20px;
+}
+
+.Synonyms ul {
+  padding: 0 10px;
+  margin: 0;
+}
+
 .Synonyms li {
-  font-size: 13px;
+  font-size: 14px;
   display: inline-block;
   padding-right: 10px;
   line-height: 1;
